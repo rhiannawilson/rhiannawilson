@@ -1,13 +1,17 @@
 ## 👋 Welcome to Rhianna's Page
 
 ### Frontend Technologies
-HTML5 CSS3 JavaScript Bootstrap jQuery React Angular Vue.js TailwindCSS D3.js
+HTML5 CSS3 JavaScript Bootstrap jQuery React 
+<!-- Angular Vue.js TailwindCSS D3.js -->
+
 
 ### Backend & Databases
-Node.js Python PHP Express.js FastAPI GraphQL MySQL PostgreSQL MongoDB Sequelize
+Node.js Python  Express.js FastAPI MySQL PostgreSQL MongoDB Sequelize
+<!-- PHP GraphQL -->
 
 ### Developer Tools & More
-Visual Studio Code Git GitHub GitLab CLI Heroku Ethereum Wordpress Apollo Server
+Visual Studio Code Git GitHub GitLab CLI Wordpress 
+<!-- Heroku Ethereum Apollo Server -->
 
 ### Operating Systems
 Windows iOS MacOS

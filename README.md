@@ -21,12 +21,12 @@
 > Sequelize
 <!-- PHP GraphQL -->
 
-### Developer Tools & More
-Visual Studio Code Git GitHub GitLab CLI Wordpress 
+> #### Developer Tools & More
+> ###### Visual Studio Code Git GitHub GitLab CLI Wordpress 
 <!-- Heroku Ethereum Apollo Server -->
 
-### Operating Systems
-Windows iOS MacOS
+> #### Operating Systems
+> ###### Windows iOS MacOS
 
 
 <!--

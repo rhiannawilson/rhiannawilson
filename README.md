@@ -2,12 +2,23 @@
 
 ![Frontend Technology Badge](https://img.shields.io/badge/FrontEnd%20Technologies-20B2AA?style=for-the-badge.svg)
 
-HTML5 CSS3 JavaScript Bootstrap jQuery React 
+> HTML5 
+> CSS3
+> JavaScript
+> Bootstrap
+> jQuery
+> React 
 <!-- Angular Vue.js TailwindCSS D3.js -->
 
 ![Backend Technology Badge](https://img.shields.io/badge/BackEnd%20Technologies-20B2AA?style=for-the-badge.svg)
-
-Node.js Python  Express.js FastAPI MySQL PostgreSQL MongoDB Sequelize
+> Node.js
+> Python
+> Express.js
+> FastAPI
+> MySQL
+> PostgreSQL
+> MongoDB
+> Sequelize
 <!-- PHP GraphQL -->
 
 ### Developer Tools & More

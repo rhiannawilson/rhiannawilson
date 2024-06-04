@@ -1,11 +1,12 @@
 ![Rhianna's Badge](https://img.shields.io/badge/Rhianna's%20Page-8A2BE2.svg)
 
-### Frontend Technologies
+![Frontend Technology Badge](https://img.shields.io/badge/FrontEnd%20Technologies-20B2AA?style=for-the-badge.svg)
+
 HTML5 CSS3 JavaScript Bootstrap jQuery React 
 <!-- Angular Vue.js TailwindCSS D3.js -->
 
+![Backend Technology Badge](https://img.shields.io/badge/BackEnd%20Technologies-20B2AA?style=for-the-badge.svg)
 
-### Backend & Databases
 Node.js Python  Express.js FastAPI MySQL PostgreSQL MongoDB Sequelize
 <!-- PHP GraphQL -->
 

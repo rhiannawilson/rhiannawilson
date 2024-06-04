@@ -1,6 +1,6 @@
 ![Rhianna's Badge](https://img.shields.io/badge/Rhianna's%20Page-8A2BE2.svg)
 
-![Frontend Technology Badge](https://img.shields.io/badge/FrontEnd%20Technologies-20B2AA?style=for-the-badge.svg)
+![Frontend Technology Badge](https://img.shields.io/badge/FrontEnd%20Technologies-20B2AA?style=for-the-badge)
 
 > HTML5 
 > CSS3
@@ -10,7 +10,7 @@
 > React 
 <!-- Angular Vue.js TailwindCSS D3.js -->
 
-![Backend Technology Badge](https://img.shields.io/badge/BackEnd%20Technologies-20B2AA?style=for-the-badge.svg)
+![Backend Technology Badge](https://img.shields.io/badge/BackEnd%20Technologies-20B2AA?style=for-the-badge)
 > Node.js
 > Python
 > Express.js

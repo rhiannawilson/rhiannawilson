@@ -1,4 +1,4 @@
-## Welcome to [https://img.shields.io/badge/Rhianna's%20Page-8A2BE2.svg]
+## Welcome to ![Rhianna's Badge](https://img.shields.io/badge/Rhianna's%20Page-8A2BE2.svg)
 
 ### Frontend Technologies
 HTML5 CSS3 JavaScript Bootstrap jQuery React 

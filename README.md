@@ -22,11 +22,10 @@
 <!-- PHP GraphQL -->
 
 ![Developer Heading Badge](https://img.shields.io/badge/Developer%20Tools-20B2AA?style=for-the-badge)
-> #### Developer Tools & More
 > ###### Visual Studio Code Git GitHub GitLab CLI Wordpress 
 <!-- Heroku Ethereum Apollo Server -->
 
-> #### Operating Systems
+![Operating Systems](https://img.shields.io/badge/Operating%20Systems-20B2AA?style=for-the-badge)
 > ###### Windows iOS MacOS
 
 

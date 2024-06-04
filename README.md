@@ -1,19 +1,19 @@
-![Rhianna's Badge](https://img.shields.io/badge/Rhianna's%20Page-8A2BE2.svg)
+ ![Rhianna's Badge](https://img.shields.io/badge/Rhianna's%20Page-8A2BE2.svg)
 
-![Frontend Technology Badge](https://img.shields.io/badge/FrontEnd%20Technologies-20B2AA?style=for-the-badge)
+ ![Frontend Technology Badge](https://img.shields.io/badge/FrontEnd%20Technologies-20B2AA?style=for-the-badge)
 
-> HTML5 
-> CSS3
-> JavaScript
-> Bootstrap
-> jQuery
-> React 
-<!-- Angular Vue.js TailwindCSS D3.js -->
+ > HTML5 
+ > CSS3
+ > JavaScript
+ > Bootstrap
+ > jQuery
+ > React 
+ <!-- Angular Vue.js TailwindCSS D3.js -->
 
-![Backend Technology Badge](https://img.shields.io/badge/BackEnd%20Technologies-20B2AA?style=for-the-badge)
-> Node.js
-> Python
-> Express.js
+ ![Backend Technology Badge](https://img.shields.io/badge/BackEnd%20Technologies-20B2AA?style=for-the-badge)
+ > Node.js
+ > Python
+ > Express.js
 > FastAPI
 > MySQL
 > PostgreSQL

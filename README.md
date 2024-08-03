@@ -6,7 +6,7 @@
  <!-- Angular Vue.js TailwindCSS D3.js -->
 
  ![Backend Technology Badge](https://img.shields.io/badge/BackEnd%20Technologies-20B2AA?style=for-the-badge)
-> ###### Node.js Python Express.js FastAPI MySQL PostgreSQL MongoDB Sequelize
+> ###### Node.js Express.js FastAPI MySQL PostgreSQL MongoDB Sequelize
 <!-- PHP GraphQL -->
 
 ![Developer Heading Badge](https://img.shields.io/badge/Developer%20Tools-20B2AA?style=for-the-badge)

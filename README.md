@@ -2,19 +2,19 @@
 
  ![Frontend Technology Badge](https://img.shields.io/badge/FrontEnd%20Technologies-20B2AA?style=for-the-badge)
 
- > ###### HTML5 CSS3 JavaScript Bootstrap jQuery React 
+ > ###### HTML5, CSS3, TailwindCSS, JavaScript, Bootstrap, jQuery, React 
  <!-- Angular Vue.js TailwindCSS D3.js -->
 
  ![Backend Technology Badge](https://img.shields.io/badge/BackEnd%20Technologies-20B2AA?style=for-the-badge)
-> ###### Node.js Express.js FastAPI MySQL PostgreSQL MongoDB Sequelize
-<!-- PHP GraphQL -->
+> ###### Node, Express.js, FastAPI, MySQL, PostgreSQL, MongoDB, Sequelize, GraphQL
+<!-- PHP  -->
 
 ![Developer Heading Badge](https://img.shields.io/badge/Developer%20Tools-20B2AA?style=for-the-badge)
-> ###### Visual Studio Code Git GitHub GitLab CLI Wordpress 
+> ###### Visual Studio Code, Git, GitHub, GitLab, CLI, Wordpress, Render, Apollo 
 <!-- Heroku Ethereum Apollo Server -->
 
 ![Operating Systems](https://img.shields.io/badge/Operating%20Systems-20B2AA?style=for-the-badge)
-> ###### Windows iOS MacOS
+> ###### Windows, iOS MacOS
 
 
 <!--
